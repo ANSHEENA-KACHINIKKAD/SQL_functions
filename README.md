@@ -1,2 +1,3 @@
 # SQL_functions
-Basic SQL function queries
+## Basic SQL function queries
+
