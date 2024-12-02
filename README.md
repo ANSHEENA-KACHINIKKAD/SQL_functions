@@ -4,10 +4,13 @@
  
  Create two tables named country and persons and performed basic sql functions which includes built-in functions and also user defined function .
 ## Tables
+
 1.country
+
 ![Screenshot (210)](https://github.com/user-attachments/assets/22d0dc4c-b53d-4477-b3cc-a3e4783e2535)
 
 2.persons
+
 ![Screenshot (212)](https://github.com/user-attachments/assets/485c9f60-f700-4be1-9e78-66d7c7d138cd)
 
 
