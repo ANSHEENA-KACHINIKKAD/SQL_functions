@@ -1,6 +1,7 @@
 # SQL_functions
 ## Objective
- Basic SQL function queries
+ Basic SQL function queries.
+ 
  Create two tables named country and persons and performed basic sql functions which includes built-in functions and also user defined function .
 ## Tables
 1.country
