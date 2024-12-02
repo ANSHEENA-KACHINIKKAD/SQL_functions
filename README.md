@@ -32,15 +32,21 @@
 ## Notes
 
 SQL Functions
+
 1.Built-in functions
+
  a. Aggregate Functions : This only work on a group of rows to return a single aggregate 
     result value. The Example of Aggregate Functions are: COUNT(), MIN(), MAX(), SUM(), 
     AVG(), etc.
+    
  b. Scalar Functions : This work on single input value to return single result value. The 
     Example of Scalar Functions are: LEN(), ROUND(), SUBSTRING(), CASE(), NOW(), 
     etc.
+    
 2.User-defined functions
+
   syntax:
+  
     DELIMITER $$
     CREATE FUNCTION func_name(parameters)
     RETURNS return_datatype 
@@ -50,5 +56,5 @@ SQL Functions
     END $$
     DELIMITER ;
 
-   SELECT <Function_Name>(Value);(The syntax for calling a User Defined Function in MySQL is as follows:)
+    SELECT <Function_Name>(Value);(The syntax for calling a User Defined Function in MySQL is as follows:)
 
